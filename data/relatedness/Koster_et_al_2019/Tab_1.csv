@@ -1,0 +1,20 @@
+site_number,group,country,descent_rule,average_relatedness,community_size,women_per_household,per_cent_natal_female_adults,per_cent_natal_male_adults,abbreviation
+1,Savannah Pumé,Venezuela,bilateral,0.085,76,0.9,57.89,14.29,PU
+2,Miskito,Nicaragua,bilateral,0.1,92,1.07,53.33,21.43,MK
+3,Mayangna,Nicaragua,bilateral,0.044,322,1.88,80.65,38.89,NI
+4,Coastal Afro-Colombians,Colombia,,0.012,188,1.22,48.15,45.83,CA
+5,Inland Afro-Colombians,Colombia,,0.006,306,1.11,46.59,47.54,IA
+6,Dominica,Dominica,,0.017,422,1.33,94.63,96.6,DM
+7,Inland Emberá,Colombia,,0.048,91,1,60,61.54,IE
+8,Choyeros,Mexico,bilateral,0.054,113,1.19,73.68,81.4,MX
+9,"The Gambia, 2",The Gambia,patrilineal,0.011,573,1.56,80.5,89.39,GB
+10,Mosuo,China,matrilineal,0.014,218,2.13,82.14,91.36,MM
+11,Maya,Mexico,bilateral,0.035,544,1.2,84.15,94.74,MA
+12,Lamalera,Indonesia,patrilineal,0.005,1216,1.48,83.76,95.43,LA
+13,Coastal Emberá,Colombia,,0.087,86,1.13,11.76,13.33,CE
+14,Maasai,Kenya,patrilineal,0.013,296,1.29,25.93,31.25,MS
+15,"The Gambia, 1",The Gambia,patrilineal,0.005,1387,5.65,70.23,86.42,GA
+16,Mosuo,China,patrilineal,0.024,163,2.27,62.69,88.14,MP
+17,Alakāpuram,India,patrilineal,0.004,613,1.33,37.05,85.33,AZ
+18,Tenpaṭṭi,India,patrilineal,0.004,487,1.27,30.57,91.84,TP
+19,Tanna,Vanuatu,patrilineal,0.03,183,2.31,27.03,86.67,TA
